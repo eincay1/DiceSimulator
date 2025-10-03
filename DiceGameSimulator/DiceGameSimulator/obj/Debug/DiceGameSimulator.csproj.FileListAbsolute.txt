@@ -1,0 +1,7 @@
+C:\Users\einca\source\repos\DiceGameSimulator\DiceGameSimulator\bin\Debug\DiceGameSimulator.exe.config
+C:\Users\einca\source\repos\DiceGameSimulator\DiceGameSimulator\bin\Debug\DiceGameSimulator.exe
+C:\Users\einca\source\repos\DiceGameSimulator\DiceGameSimulator\bin\Debug\DiceGameSimulator.pdb
+C:\Users\einca\source\repos\DiceGameSimulator\DiceGameSimulator\obj\Debug\DiceGameSimulator.csproj.AssemblyReference.cache
+C:\Users\einca\source\repos\DiceGameSimulator\DiceGameSimulator\obj\Debug\DiceGameSimulator.csproj.CoreCompileInputs.cache
+C:\Users\einca\source\repos\DiceGameSimulator\DiceGameSimulator\obj\Debug\DiceGameSimulator.exe
+C:\Users\einca\source\repos\DiceGameSimulator\DiceGameSimulator\obj\Debug\DiceGameSimulator.pdb
